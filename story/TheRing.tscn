@@ -7,24 +7,24 @@
 
 [node name="Humongus" parent="." index="54"]
 script = ExtResource( 2 )
-density = 0.0
+maxDensity = PoolIntArray( 32, 30, 28, 26, 24 )
 
 [node name="Moonlet" parent="." index="55"]
 script = ExtResource( 2 )
-density = 0.0
+maxDensity = PoolIntArray( 32, 30, 28, 26, 24 )
 
 [node name="Addlet" parent="." index="56"]
 script = ExtResource( 2 )
-density = 0.0
+maxDensity = PoolIntArray( 32, 30, 28, 26, 24 )
 
 [node name="BigMoonlet" parent="." index="57"]
 script = ExtResource( 2 )
-density = 0.0
+maxDensity = PoolIntArray( 32, 30, 28, 26, 24 )
 
 [node name="BigMoonletCaves" parent="." index="58"]
 script = ExtResource( 2 )
-density = 0.0
+maxDensity = PoolIntArray( 32, 30, 28, 26, 24 )
 
 [node name="BiggerMoonletSpelunker" parent="." index="59"]
 script = ExtResource( 2 )
-density = 0.0
+maxDensity = PoolIntArray( 32, 30, 28, 26, 24 )
